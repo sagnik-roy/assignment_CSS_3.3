@@ -1,0 +1,72 @@
+body {
+    color: #ffffff;
+}
+
+.address{
+    padding-top: 10px;
+    text-align: center;
+    border: 2px solid #ffffff;
+    border-radius: 15px;
+    width: 400px;
+    height: 70px;
+        
+}
+.name,
+.email,
+.phone,
+.post,
+.country{
+    padding-top: 10px;
+    text-align: center;
+    border: 2px solid #ffffff;
+    border-radius: 15px;
+    width: 400px;
+    height: 30px;
+    
+}
+
+.card-type img{
+    height: 20px;
+    width: auto;
+}
+.card-type{
+    padding-top: 10px;
+    align-content: center;
+    border: 2px solid #ffffff;
+    border-radius: 15px;
+    width: 400px;
+    height: 60px;
+    
+}
+
+
+
+.security,
+.card-name,
+.card-number{
+    padding-top: 10px;
+    border: 2px solid #ffffff;
+    border-radius: 15px;
+    width: 400px;
+    height: 30px;
+    text-align: center;
+    
+}
+
+
+input[type=submit] {
+    padding:5px 15px; 
+    background:#ccc; 
+    border: 2px solid;
+    border-radius: 5px;
+    cursor:pointer;
+    border-radius: 5px; 
+
+}
+.submit{
+    display: block;
+    margin: 0 ;
+    text-align: center;
+    width: 400px;
+    
+}
